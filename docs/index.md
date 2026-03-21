@@ -15,11 +15,10 @@ hero:
       link: /docs
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 纯甄基岩生电，零扰创造天地
+    details: 坚守原版核心机制，拒绝魔改与氪金特权，专注生电玩法深度体验——红石机械自由搭建、自动化农场随心研发，专属轻量化优化插件保障流畅运行，TNT大规模爆破也无压力。人少资源充沛，无抢矿内卷烦恼，搭配严格白名单与领地保护机制，彻底杜绝熊孩子破坏，永久存档不删档，让每一份创意都能安稳留存。
+  - title: 学生专属暖群，小而精的同好聚落
+    details: 主打“小而和谐”的社群氛围，聚集同龄学生玩家，以“尊重互助”为唯一公约，无繁琐规矩束缚。定期举办低压力趣味活动：建筑创意比拼、生电技术研讨、期末解压生存挑战，专属交流群里还能分享学习干货与游戏技巧。管理员同为学生群体，及时响应各类问题，新手入服即享物资帮扶，轻松融入集体。
+  - title: 跨游联动乐园，不止于MC的欢乐
+    details: 打破单一游戏局限，除基岩版MC纯净生电服外，同步开放《泰拉瑞亚》《饥荒》等热门联机游戏节点。学生党无需重建社交圈，可与同服好友无缝切换游玩场景，解锁多元联机乐趣。服务器24小时稳定运行，支持手机、电脑跨设备登录，完美适配学生碎片化时间，学习之余随时开启轻松冒险。
 ---
-
