@@ -12,7 +12,7 @@ hero:
       link: https://qun.qq.com/universal-share/share?ac=1&authKey=8SQAmWWhU52FDFENAkWGnohMxJGZuJBzgktJH7d7IMCd7jwyW9BRpfPYmAezddBd&busi_data=eyJncm91cENvZGUiOiI3NDA2OTQyMjMiLCJ0b2tlbiI6Ii9qMGZKUEU2KzlpNFJrMmVFcExPc0NNVmRmTis5ZHdaU2dUeGg2VnhTc3hrSHlnKzM3cXBXMFFxSU1Zc3RMM0ciLCJ1aW4iOiI4MjI0MDYyODcifQ%3D%3D&data=NJv5qVNsDWToC_g9uO8f4bFQPTJh2-faxsVRknxePWlQtisKmL4OjfETfjQyBP2T1R1v9hwyhWJ5kR1JJuxHyw&svctype=4&tempid=h5_group_info
     - theme: alt
       text: 文档
-      link: /docs/404
+      link: /docs/
 
 features:
   - title: 纯甄基岩生电，零扰创造天地
