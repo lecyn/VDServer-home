@@ -32,11 +32,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '目录',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
+          { text: '工具', link: '/docs/tools' }, 
+       ]
       }
     ],
 
