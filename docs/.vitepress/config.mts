@@ -10,6 +10,7 @@ export default defineConfig({
     logo: '/logo.ico',
     nav: [
       { text: '主页', link: '/' },
+      { text: '文档', link: '/guide/' },
       { text: '教程', 
         items: [
           {
@@ -26,7 +27,7 @@ export default defineConfig({
           }
         ]
        },
-      { text: '梗', link: '/meme' },
+      { text: '梗', link: '/guide/meme/' },
       { text: '成员', link: '/' }
     ],
 
@@ -34,6 +35,7 @@ export default defineConfig({
       {
         text: '目录',
         items: [
+          { text: '开始', link: '/guide/' },
           { text: '工具', link: '/docs/tools' }, 
        ]
       }
